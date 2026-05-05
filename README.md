@@ -1,4 +1,4 @@
-#  Sales Performance Dashboard – Syntecxhub Training Project
+#  Sales Performance Dashboard – Syntecxhub Project
 
 ##  Project Overview
 This project is a **Sales Performance Dashboard** developed as part of a Data Analytics training program at Syntecxhub.  
