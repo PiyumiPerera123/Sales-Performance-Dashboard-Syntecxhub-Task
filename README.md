@@ -32,4 +32,7 @@ The dashboard provides insights into sales performance, profit analysis, and bus
 ---
 
 ##  Dashboard Preview
-![Adashboard](Dashboard.png)
+![dashboard](image1.png)
+<br>
+<br>
+![dashboard](image2.png)
